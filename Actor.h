@@ -19,11 +19,11 @@ protected:
 	int zOrder;
 	float lifeSpan;
 	LayerType layer;
+	URootComponent* root;
 private:
 	string name;
 	string displayName;
 	set<UComponent*> components;
-	URootComponent* root;
 	AActor* parent;
 	AttachmentType attachment;
 	set<AActor*> children;

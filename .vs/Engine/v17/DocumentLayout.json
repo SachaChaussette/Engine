@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sacha\\Documents\\GitHub\\Engine\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\COURS 24-25\\Engine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13C3FFD1-73DC-4024-9C2F-A03397E49E1F}|Engine.vcxproj|D:\\COURS 24-25\\Engine\\MovementComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13C3FFD1-73DC-4024-9C2F-A03397E49E1F}|Engine.vcxproj|solutionrelative:MovementComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C3FFD1-73DC-4024-9C2F-A03397E49E1F}|Engine.vcxproj|D:\\COURS 24-25\\Engine\\PlayerPawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13C3FFD1-73DC-4024-9C2F-A03397E49E1F}|Engine.vcxproj|solutionrelative:PlayerPawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,27 +18,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerPawn.cpp",
+              "DocumentMoniker": "D:\\COURS 24-25\\Engine\\PlayerPawn.cpp",
+              "RelativeDocumentMoniker": "PlayerPawn.cpp",
+              "ToolTip": "D:\\COURS 24-25\\Engine\\PlayerPawn.cpp",
+              "RelativeToolTip": "PlayerPawn.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T19:49:55.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovementComponent.cpp",
+              "DocumentMoniker": "D:\\COURS 24-25\\Engine\\MovementComponent.cpp",
+              "RelativeDocumentMoniker": "MovementComponent.cpp",
+              "ToolTip": "D:\\COURS 24-25\\Engine\\MovementComponent.cpp",
+              "RelativeToolTip": "MovementComponent.cpp",
+              "ViewState": "AQIAABEAAAAAAAAAAAAhwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T19:50:19.666Z",
+              "EditorCaption": ""
             }
           ]
         }

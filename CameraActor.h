@@ -52,7 +52,7 @@ namespace Camera
 		}
 
 	public:
-		ACameraActor(Level* _level, const string& _name);
+		ACameraActor(Level* _level, const string& _name = "CameraActor");
 		ACameraActor(Level* _level, const Vector2f& _center, const Vector2f& _size, const string& _name);
 		ACameraActor(Level* _level, const Vector2f& _size, const string& _name);
 		ACameraActor(Level* _level, const FloatRect& _rect, const string& _name);
