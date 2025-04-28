@@ -120,7 +120,7 @@ private:
 		};
 
 		const AttachmentType& _type = _child->GetAttachmentType();
-		_child->SetPosition(_computePosition[_type]());
+		_child->SetLocation(_computePosition[_type]());
 	}
 	FORCEINLINE void UpdateChildRotation(AActor* _child)
 	{
@@ -270,10 +270,10 @@ public:
 
 	#pragma region Modifier
 
-	FORCEINLINE virtual void SetPosition(const Vector2f& _position) override
+	FORCEINLINE virtual void SetLocation(const Vector2f& _position) override
 	{
 		oldTransform.position = GetPosition();
-		root->SetPosition(_position);
+		root->SetLocation(_position);
 
 		for (AActor* _child : children)
 		{

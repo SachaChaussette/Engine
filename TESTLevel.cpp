@@ -26,8 +26,8 @@ void TESTLevel::InitLevel()
 
 	AActor* _actor = SpawnActor<APlayerPawn>();
 	ACircleActor* _circle = SpawnActor<ACircleActor>(50.0f);
-
-	_actor->SetPosition(GetWindowSize() / 2.0f);
+	_circle->SetLocation(Vector2f(100.0f, 100.0f));
+	_actor->SetLocation(GetWindowSize() / 2.0f);
 
 	GetGameMode()->GetHUD()->AddToViewport(canvas);
 

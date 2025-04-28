@@ -17,9 +17,9 @@ namespace Camera
 		{
 			camera->SetViewport(_rect);
 		}
-		FORCEINLINE virtual void SetPosition(const Vector2f& _center) override
+		FORCEINLINE virtual void SetLocation(const Vector2f& _center) override
 		{
-			Super::SetPosition(_center);
+			Super::SetLocation(_center);
 			camera->SetCenter(_center);
 		}
 		FORCEINLINE virtual void SetRotation(const Angle& _angle) override
