@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Sacha\\Documents\\GitHub\\Engine\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13C3FFD1-73DC-4024-9C2F-A03397E49E1F}|Engine.vcxproj|C:\\Users\\Sacha\\Documents\\GitHub\\Engine\\MovementComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13C3FFD1-73DC-4024-9C2F-A03397E49E1F}|Engine.vcxproj|solutionrelative:MovementComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13C3FFD1-73DC-4024-9C2F-A03397E49E1F}|Engine.vcxproj|C:\\Users\\Sacha\\Documents\\GitHub\\Engine\\TESTLevel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{13C3FFD1-73DC-4024-9C2F-A03397E49E1F}|Engine.vcxproj|solutionrelative:TESTLevel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{13C3FFD1-73DC-4024-9C2F-A03397E49E1F}|Engine.vcxproj|C:\\Users\\Sacha\\Documents\\GitHub\\Engine\\PlayerPawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{13C3FFD1-73DC-4024-9C2F-A03397E49E1F}|Engine.vcxproj|solutionrelative:PlayerPawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13C3FFD1-73DC-4024-9C2F-A03397E49E1F}|Engine.vcxproj|C:\\Users\\Sacha\\Documents\\GitHub\\Engine\\MovementComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{13C3FFD1-73DC-4024-9C2F-A03397E49E1F}|Engine.vcxproj|solutionrelative:MovementComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TESTLevel.cpp",
               "DocumentMoniker": "C:\\Users\\Sacha\\Documents\\GitHub\\Engine\\TESTLevel.cpp",
               "RelativeDocumentMoniker": "TESTLevel.cpp",
-              "ToolTip": "C:\\Users\\Sacha\\Documents\\GitHub\\Engine\\TESTLevel.cpp*",
-              "RelativeToolTip": "TESTLevel.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Sacha\\Documents\\GitHub\\Engine\\TESTLevel.cpp",
+              "RelativeToolTip": "TESTLevel.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-28T17:27:07.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TESTLevel.h",
               "DocumentMoniker": "C:\\Users\\Sacha\\Documents\\GitHub\\Engine\\TESTLevel.h",
               "RelativeDocumentMoniker": "TESTLevel.h",
@@ -51,12 +51,11 @@
               "RelativeToolTip": "TESTLevel.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-28T17:27:05.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T17:27:05.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PlayerPawn.cpp",
               "DocumentMoniker": "C:\\Users\\Sacha\\Documents\\GitHub\\Engine\\PlayerPawn.cpp",
               "RelativeDocumentMoniker": "PlayerPawn.cpp",
@@ -64,18 +63,17 @@
               "RelativeToolTip": "PlayerPawn.cpp",
               "ViewState": "AgIAACYAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T19:49:55.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T19:49:55.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MovementComponent.cpp",
               "DocumentMoniker": "C:\\Users\\Sacha\\Documents\\GitHub\\Engine\\MovementComponent.cpp",
               "RelativeDocumentMoniker": "MovementComponent.cpp",
-              "ToolTip": "C:\\Users\\Sacha\\Documents\\GitHub\\Engine\\MovementComponent.cpp*",
-              "RelativeToolTip": "MovementComponent.cpp*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAhwCYAAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Sacha\\Documents\\GitHub\\Engine\\MovementComponent.cpp",
+              "RelativeToolTip": "MovementComponent.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T19:50:19.666Z",
               "EditorCaption": ""
