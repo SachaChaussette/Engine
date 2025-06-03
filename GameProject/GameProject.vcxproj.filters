@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Examples">
+      <UniqueIdentifier>{28539c81-b51e-4643-851f-df4ec0aa2505}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Examples\CustomHUD">
+      <UniqueIdentifier>{28527978-24d0-431f-8912-4b1eed2e204e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Examples\CustomPawn">
+      <UniqueIdentifier>{c085ac8c-4796-4bff-a2cb-45b30ebc4e12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Examples\CustomMesh">
+      <UniqueIdentifier>{66601635-ac9a-48f6-a2b5-ed1b1d3a1ef5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Examples\CustomLevel">
+      <UniqueIdentifier>{8c00c92b-6f60-4e05-9735-f3527fbd17b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Examples\CustomActor">
+      <UniqueIdentifier>{1e1b6740-1116-4e1b-b876-0a63e18050ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Examples\CustomGameMode">
+      <UniqueIdentifier>{213ab5e5-959c-4a56-8428-7cd2468c62e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Examples\CustomPlayerController">
+      <UniqueIdentifier>{f9cc4c0e-441e-4432-a5cf-68517469d6b4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="TESTLevel.cpp">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomActor.cpp">
+      <Filter>Examples\CustomActor</Filter>
+    </ClCompile>
+    <ClCompile Include="CUSTOMGameMode.cpp">
+      <Filter>Examples\CustomGameMode</Filter>
+    </ClCompile>
+    <ClCompile Include="CUSTOMHUD.cpp">
+      <Filter>Examples\CustomHUD</Filter>
+    </ClCompile>
+    <ClCompile Include="CUSTOMLevel.cpp">
+      <Filter>Examples\CustomLevel</Filter>
+    </ClCompile>
+    <ClCompile Include="CUSTOMMesh.cpp">
+      <Filter>Examples\CustomMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="CUSTOMPawn.cpp">
+      <Filter>Examples\CustomPawn</Filter>
+    </ClCompile>
+    <ClCompile Include="CUSTOMPlayerController.cpp">
+      <Filter>Examples\CustomPlayerController</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Main.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="TESTLevel.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomActor.h">
+      <Filter>Examples\CustomActor</Filter>
+    </ClInclude>
+    <ClInclude Include="CUSTOMGameMode.h">
+      <Filter>Examples\CustomGameMode</Filter>
+    </ClInclude>
+    <ClInclude Include="CUSTOMHUD.h">
+      <Filter>Examples\CustomHUD</Filter>
+    </ClInclude>
+    <ClInclude Include="CUSTOMLevel.h">
+      <Filter>Examples\CustomLevel</Filter>
+    </ClInclude>
+    <ClInclude Include="CUSTOMMesh.h">
+      <Filter>Examples\CustomMesh</Filter>
+    </ClInclude>
+    <ClInclude Include="CUSTOMPawn.h">
+      <Filter>Examples\CustomPawn</Filter>
+    </ClInclude>
+    <ClInclude Include="CUSTOMPlayerController.h">
+      <Filter>Examples\CustomPlayerController</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
